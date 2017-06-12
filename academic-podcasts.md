@@ -1,0 +1,7 @@
+I was never a big TV-watcher or radio-listener, so I assumed podcasts weren't for me. However, I decided to give it a go after AI2 (specifically [Waleed Ammar](http://allenai.org/team/waleeda/) and [Matt Gardner](https://matt-gardner.github.io/)) launched a podcast called [NLP Highlights](https://soundcloud.com/nlp-highlights), in which they discuss an interesting NLP paper every few days.
+
+Surprisingly, I've found that I really enjoy listening to bite-sized (10-15 minutes) pieces of research-based conversation, especially since I find it hard to find people to discuss papers with. It's the perfect sort of content for a morning commute or over a meal.
+
+In this vein, I've also gotten around to catching up on [Philip Guo's](http://www.pgbovine.net) [PG Vlogs](https://www.youtube.com/playlist?list=PLzV58Zm8FuBKfqSyBgq81oFTkFANw6JJ5), in which he talks about whatever things (mostly professional) are on his mind. Similarly, he has a series of longer [PG Podcasts](https://www.youtube.com/playlist?list=PLzV58Zm8FuBLS0C2fK5hvZPDJQOv2c19t) in which he just chats with a range of people about various topics. In particular, I'd recommend the [PG Podcast with Jean Yang](https://www.youtube.com/watch?v=ZpkFffAT208&list=PLzV58Zm8FuBLS0C2fK5hvZPDJQOv2c19t&index=9), wherein they talk about their strategies and throughts on time management.
+
+If you have any other academically-focused podcasts or video series that you enjoy, I'd love to hear about them in the comments!
